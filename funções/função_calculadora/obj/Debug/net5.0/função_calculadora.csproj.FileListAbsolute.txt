@@ -1,0 +1,16 @@
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\bin\Debug\net5.0\função_calculadora.exe
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\bin\Debug\net5.0\função_calculadora.deps.json
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\bin\Debug\net5.0\função_calculadora.runtimeconfig.json
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\bin\Debug\net5.0\função_calculadora.runtimeconfig.dev.json
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\bin\Debug\net5.0\função_calculadora.dll
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\bin\Debug\net5.0\ref\função_calculadora.dll
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\bin\Debug\net5.0\função_calculadora.pdb
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\obj\Debug\net5.0\função_calculadora.csprojAssemblyReference.cache
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\obj\Debug\net5.0\função_calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\obj\Debug\net5.0\função_calculadora.AssemblyInfoInputs.cache
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\obj\Debug\net5.0\função_calculadora.AssemblyInfo.cs
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\obj\Debug\net5.0\função_calculadora.csproj.CoreCompileInputs.cache
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\obj\Debug\net5.0\função_calculadora.dll
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\obj\Debug\net5.0\ref\função_calculadora.dll
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\obj\Debug\net5.0\função_calculadora.pdb
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\função_calculadora\obj\Debug\net5.0\função_calculadora.genruntimeconfig.cache
