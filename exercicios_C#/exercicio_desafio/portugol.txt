@@ -1,0 +1,33 @@
+Algoritmo Categoria Nadador
+Inicio
+
+var IdadeNadador : REAL
+
+Escreval ("Olá nadador(a)! Qual a sua idade?")
+Leia (IdadeNadador)
+
+SE (IdadeNadador >= 5 e IdadeNadador <= 7) ENTÃO
+Escreval ("De acordo com a sua idade, sua categoria é: INFANTIL A")
+FimSE
+
+SE (IdadeNadador < 5) ENTÃO
+Escreval ("Você não possui categoria...")
+FimSE
+
+SE (IdadeNadador >= 8 e IdadeNadador <= 10) ENTÃO
+Escreval ("De acordo com a sua idade, sua categoria é: INFANTIL B")
+FimSE
+
+SE (IdadeNadador >= 11 e IdadeNadador <= 13) ENTÃO
+Escreval ("De acordo com a sua idade, sua categoria é: JUVENIL A")
+FimSE
+
+SE (IdadeNadador >= 14 e IdadeNadador <= 17) ENTÃO
+Escreval ("De acordo com a sua idade, sua categoria é: JUVENIL B")
+FimSE
+
+SE (IdadeNadador >= 18) ENTÃO
+Escreval ("De acordo com a sua idade, sua categoria é: SÊNIOR")
+FimSE
+
+Fim

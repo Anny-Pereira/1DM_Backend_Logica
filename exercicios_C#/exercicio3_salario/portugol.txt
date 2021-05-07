@@ -1,0 +1,17 @@
+Aloritmo Salário
+Inicio
+
+var Salario, AumentoSalario : REAL
+
+Escreval ("Seja bem-vindo(a)! Qual o seu salário?")
+Leia (Salario)
+
+SE (Salario < 500) ENTÃO
+AumentoSalario = Salario * 1.3
+Escreval ("Você recebeu um aumento de 30% e agora seu salário equivale à " AumentoSalario " reais!")
+
+SENÃO 
+Escreval ("Seu salário não foi alterado!")
+FimSE
+
+Fim

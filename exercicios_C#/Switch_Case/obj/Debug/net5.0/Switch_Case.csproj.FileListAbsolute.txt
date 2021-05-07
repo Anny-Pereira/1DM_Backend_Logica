@@ -1,0 +1,16 @@
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\bin\Debug\net5.0\Switch_Case.exe
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\bin\Debug\net5.0\Switch_Case.deps.json
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\bin\Debug\net5.0\Switch_Case.runtimeconfig.json
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\bin\Debug\net5.0\Switch_Case.runtimeconfig.dev.json
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\bin\Debug\net5.0\Switch_Case.dll
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\bin\Debug\net5.0\ref\Switch_Case.dll
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\bin\Debug\net5.0\Switch_Case.pdb
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\obj\Debug\net5.0\Switch_Case.csprojAssemblyReference.cache
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\obj\Debug\net5.0\Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\obj\Debug\net5.0\Switch_Case.AssemblyInfoInputs.cache
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\obj\Debug\net5.0\Switch_Case.AssemblyInfo.cs
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\obj\Debug\net5.0\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\obj\Debug\net5.0\Switch_Case.dll
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\obj\Debug\net5.0\ref\Switch_Case.dll
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\obj\Debug\net5.0\Switch_Case.pdb
+C:\Users\elilton\Documents\SENAI\Backend\Switch_Case\obj\Debug\net5.0\Switch_Case.genruntimeconfig.cache

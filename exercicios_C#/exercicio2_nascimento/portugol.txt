@@ -1,0 +1,18 @@
+Algoritmo Nascimento
+Inicio
+
+var AnoNascimento, AnoAtual, Idade, IdadeSemanas : REAL
+
+Escreval ("Qual seu ano de nascimento?")
+Leia (AnoNascimento)
+
+AnoAtual = Calendario.Ano_Atual
+
+Idade = (AnoAtual - AnoNascimento)
+Escreval ("Você tem aproximadamente " Idade " anos!")
+
+// 1 ano tem 52 semanas
+IdadeSemanas = Idade * 52
+Escreval ("Sua idade em semanas é de aproximadamente: " IdadeSemanas)
+
+Fim

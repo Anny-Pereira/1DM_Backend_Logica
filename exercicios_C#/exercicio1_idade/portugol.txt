@@ -1,0 +1,22 @@
+
+Algoritmo Idade
+Inicio
+
+var Idade, IdadeMeses, IdadeDias, IdadeHoras, IdadeMinutos : REAL
+
+Escreval ("Olá. Quantos anos você tem?")
+Leia (SuaIdade)
+
+IdadeMeses = SuaIdade * 12
+Escreval ("Sua idade em meses é de: " IdadeMeses)
+
+IdadeDias = SuaIdade * 365
+Escreval ("Sua idade em dias é de: " IdadeDias)
+
+IdadeHoras = SuaIdade * 8760
+Escreval ("Sua idade em horas é de: " IdadeHoras)
+
+IdadeMinutos = SuaIdade * 525600
+Escreval ("Sua idade em minutos é de: " IdadeMinutos)
+
+Fim
