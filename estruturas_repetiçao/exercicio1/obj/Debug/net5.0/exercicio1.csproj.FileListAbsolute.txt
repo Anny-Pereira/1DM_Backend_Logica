@@ -1,0 +1,16 @@
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\bin\Debug\net5.0\exercicio1.exe
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\bin\Debug\net5.0\exercicio1.deps.json
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\bin\Debug\net5.0\exercicio1.runtimeconfig.json
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\bin\Debug\net5.0\exercicio1.runtimeconfig.dev.json
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\bin\Debug\net5.0\exercicio1.dll
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\bin\Debug\net5.0\ref\exercicio1.dll
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\bin\Debug\net5.0\exercicio1.pdb
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\obj\Debug\net5.0\exercicio1.csprojAssemblyReference.cache
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\obj\Debug\net5.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\obj\Debug\net5.0\exercicio1.AssemblyInfoInputs.cache
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\obj\Debug\net5.0\exercicio1.AssemblyInfo.cs
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\obj\Debug\net5.0\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\obj\Debug\net5.0\exercicio1.dll
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\obj\Debug\net5.0\ref\exercicio1.dll
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\obj\Debug\net5.0\exercicio1.pdb
+C:\Users\elilton\Documents\SENAI\estruturas_repetição\exercicio1\obj\Debug\net5.0\exercicio1.genruntimeconfig.cache

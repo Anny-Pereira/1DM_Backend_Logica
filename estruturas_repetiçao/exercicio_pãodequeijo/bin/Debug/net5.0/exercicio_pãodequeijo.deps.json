@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "exercicio_pãodequeijo/1.0.0": {
+        "runtime": {
+          "exercicio_pãodequeijo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio_pãodequeijo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

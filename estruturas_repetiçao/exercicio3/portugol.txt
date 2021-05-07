@@ -1,0 +1,76 @@
+Algoritmo Nome-Idade-Salário_Estado Civil
+Inicio
+
+var Nome, Idade, Salario, Estado: REAL
+logico ValNome, ValIdade, ValSalario, ValEstado = FALSO
+
+FAÇA 
+    Escreval ("Campo obrigatório*\nInsira um nome diferente de vazio: ")
+    Leia Nome
+
+    SE (Nome <> "") ENTÃO
+        ValNome = VERDADEIRO
+
+    SENÃO 
+        Escreval ("Nenhum dado identificado. Insira seu nome: ")
+    FimSE
+
+ENQUANTO (ValNome = FALSO)
+FimENQUANTO
+
+
+FAÇA 
+    Escreval ("Campo obrigatório*\nInsira sua idade: ")
+    Leia Idade
+
+    SE (Idade <= 150 e Idade > 0) ENTÃO
+        ValIdade = VERDADEIRO
+
+    SENÃO 
+        Escreval ("Nenhum dado identificado. Insira sua idade: ")
+    FimSE
+
+ENQUANTO (ValIdade = FALSO)
+FimENQUANTO
+
+
+FAÇA 
+    Escreval ("Campo obrigatório*\nInsira o valor de seu salário: ")
+    Leia Salario
+
+    SE (Salario > 0) ENTÃO
+        ValSalario = VERDADEIRO
+
+    SENÃO 
+        Escreval ("Nenhum dado identificado. Insira o valor de seu salário: ")
+    FimSE
+
+ENQUANTO (ValSalario = FALSO)
+FimENQUANTO
+
+
+FAÇA 
+    Escreval ("Campo obrigatório*\nInsira o seu Estado Civil (s(solteiro); c(casado); v(viúvo); d(divorciado)):  ")
+    Leia Estado
+
+    ESCOLHA (Estado)
+        CASO "s" FAÇA
+        Escreval ("Você é solteiro(a).\n\nProcesso efetuado com sucesso!)
+
+        CASO "c" FAÇA
+        Escreval ("Você é casado(a).\n\nProcesso efetuado com sucesso!)
+
+        CASO "v" FAÇA
+        Escreval ("Você é viúvo(a).\n\nProcesso efetuado com sucesso!)
+
+        CASO "d" FAÇA
+        Escreval ("Você é divorciado(a).\n\nProcesso efetuado com sucesso!)
+
+        OUTROCASO
+        Escreval ("Nenhum dado identificado. Insira seu Estado Civil: ")
+    FimESCOLHA
+
+ENQUANTO (ValEstado = FALSO)
+FimENQUANTO
+
+Fim

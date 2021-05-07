@@ -1,0 +1,22 @@
+Aloritmo Usuário e Senha
+Inicio
+
+var Usuário, Senha: REAL
+logico Igualdade = FALSO
+
+FAÇA 
+    Escreval ("Insira seu nome de usuário: ")
+    Leia Usuário
+
+    SE (Usuário <> Senha) ENTÃO
+        Escreval ("Processo efetuado com sucesso!")
+        Igualdade = VERDADEIRO
+
+    SENÃO 
+        Escreval ("Erro! Seu nome de usuário NÃO pode ser igual a sua senha. Efetue o login novamente.\n")    
+    FimSE
+
+ENQUANTO ( Igualdade = FALSO) 
+FimENQUANTO
+
+Fim

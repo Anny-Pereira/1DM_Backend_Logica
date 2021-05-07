@@ -1,0 +1,23 @@
+Algoritmo Nota de 0 - 10
+
+Inicio
+
+var Nota: REAL
+logico NotaFinal = FALSO
+
+FAÇA 
+    Ecreval ("Insira uma nota de 0 a 10: ")
+    Leia(d) (Nota)
+
+    SE (Nota <= 10) ENTÃO 
+        Escreval ("Esta nota é válida!")
+        NotaFinal = VERDADEIRA
+
+    SENÃO 
+        Escreval ("Esta nota é inválida. Insira outra nota: ")
+    FimSE
+
+ENQUANTO (NotaFinal = FALSO)   
+FimENQUANTO 
+
+Fim
