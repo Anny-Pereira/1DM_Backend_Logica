@@ -6,21 +6,18 @@ namespace exercicio7_valores_inversos
     {
         static void Main(string[] args)
         {
-            int[] numeros = new int[10];
-            for (var i = 1; i <= 10; i++)
+            int[] numeros = new int[15];
+            for (var i = 0; i < 15; i++)
             {
                 Console.Write("Insira um número inteiro: ");
-                int NInserido = int.Parse(Console.ReadLine());
+                numeros[i] = int.Parse(Console.ReadLine());
             }
 
-            foreach (var item in numeros)
+            Console.WriteLine("");
+            for (var i = 14; i >= 0; i--)
             {
-                Console.WriteLine(numeros);
+                Console.Write($"{numeros[i]}, ");
             }
-            
-
-
-
         }
     }
 }

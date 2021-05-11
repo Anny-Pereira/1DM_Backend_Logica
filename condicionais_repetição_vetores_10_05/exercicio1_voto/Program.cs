@@ -37,12 +37,8 @@ namespace exercicio1
                 Console.WriteLine("\nSeu voto é alternativo, jovem!");
             }
 
-            else if (Idade >= 16 && Idade <18 )
-            {
-                Console.WriteLine("\nSeu voto é alternativo, jovem!");
-            }
-
-            else if (Idade < 16)
+            // else (Idade < 16);
+            else
             {
                 Console.WriteLine("\nVocê ainda não pode votar!");
             }

@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\elilton\\.nuget\\packages\\": {}
+    "C:\\Users\\dev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elilton\\Documents\\SENAI\\Backend\\condicionais_repetição_vetores_10_05\\exercicio7_valores_inversos\\exercicio7_valores_inversos.csproj",
+      "projectUniqueName": "C:\\Users\\dev\\Desktop\\Backend\\condicionais_repetição_vetores_10_05\\exercicio7_valores_inversos\\exercicio7_valores_inversos.csproj",
       "projectName": "exercicio7_valores_inversos",
-      "projectPath": "C:\\Users\\elilton\\Documents\\SENAI\\Backend\\condicionais_repetição_vetores_10_05\\exercicio7_valores_inversos\\exercicio7_valores_inversos.csproj",
-      "packagesPath": "C:\\Users\\elilton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elilton\\Documents\\SENAI\\Backend\\condicionais_repetição_vetores_10_05\\exercicio7_valores_inversos\\obj\\",
+      "projectPath": "C:\\Users\\dev\\Desktop\\Backend\\condicionais_repetição_vetores_10_05\\exercicio7_valores_inversos\\exercicio7_valores_inversos.csproj",
+      "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dev\\Desktop\\Backend\\condicionais_repetição_vetores_10_05\\exercicio7_valores_inversos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\elilton\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

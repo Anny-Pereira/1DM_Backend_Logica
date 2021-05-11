@@ -16,8 +16,6 @@ namespace exercicio4_menor_maior_valor
 
             Array.Sort(valores);
 
-            foreach (var i in valores) Console.Write($"{i}, ");
-
             Console.WriteLine($"\n\nO menor número é: {valores[0]}");
             Console.WriteLine($"\nO maior número é: {valores[9]}");
 

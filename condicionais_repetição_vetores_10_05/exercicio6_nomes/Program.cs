@@ -9,26 +9,34 @@ namespace exercicio6_nomes
 
             string[] NomesGuardados = new string [10];
 
-            for (var i = 1; i <= 10; i++)
+            for (var i = 0; i < 10; i++)
             {
-            Console.Write("Insira um nome, por favor: ");
-            string Nomes = Console.ReadLine().ToLower();
+            Console.Write($"Insira o nome {i + 1}, por favor: ");
+            NomesGuardados[i] = Console.ReadLine().ToLower();
 
             }
 
-            Console.Write("Por favor, insira um novo nome: ");
-            string NovoNome = Console.ReadLine();
+            Console.Write("\nPor favor, insira um novo nome: ");
+            string NovoNome = Console.ReadLine().ToLower();
+
+            bool NomeEncontrado = false;
 
             foreach (var item in NomesGuardados)
             {
                 if ( item == NovoNome)
                 {
-                    Console.WriteLine("Nome encontrado!");
+                    NomeEncontrado = true;
                 }
-                else
-                {
-                    Console.WriteLine("Nome não encontrado...");
-                }
+            }
+
+            if (NomeEncontrado)
+            {
+                Console.WriteLine("\nNome encontrado!");
+            }
+
+            else
+            {
+                Console.WriteLine("\nNome não encontrado...");
             }
 
 

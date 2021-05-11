@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elilton\\Documents\\SENAI\\Backend\\condicionais_repetição_vetores_10_05\\exercicio5_tabuada\\exercicio5_tabuada.csproj": {}
+    "C:\\Users\\dev\\Desktop\\Backend\\condicionais_repetição_vetores_10_05\\exercicio5_tabuada\\exercicio5_tabuada.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elilton\\Documents\\SENAI\\Backend\\condicionais_repetição_vetores_10_05\\exercicio5_tabuada\\exercicio5_tabuada.csproj": {
+    "C:\\Users\\dev\\Desktop\\Backend\\condicionais_repetição_vetores_10_05\\exercicio5_tabuada\\exercicio5_tabuada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elilton\\Documents\\SENAI\\Backend\\condicionais_repetição_vetores_10_05\\exercicio5_tabuada\\exercicio5_tabuada.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\Backend\\condicionais_repetição_vetores_10_05\\exercicio5_tabuada\\exercicio5_tabuada.csproj",
         "projectName": "exercicio5_tabuada",
-        "projectPath": "C:\\Users\\elilton\\Documents\\SENAI\\Backend\\condicionais_repetição_vetores_10_05\\exercicio5_tabuada\\exercicio5_tabuada.csproj",
-        "packagesPath": "C:\\Users\\elilton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elilton\\Documents\\SENAI\\Backend\\condicionais_repetição_vetores_10_05\\exercicio5_tabuada\\obj\\",
+        "projectPath": "C:\\Users\\dev\\Desktop\\Backend\\condicionais_repetição_vetores_10_05\\exercicio5_tabuada\\exercicio5_tabuada.csproj",
+        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\Backend\\condicionais_repetição_vetores_10_05\\exercicio5_tabuada\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\elilton\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

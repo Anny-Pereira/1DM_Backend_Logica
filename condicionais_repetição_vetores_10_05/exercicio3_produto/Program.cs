@@ -13,7 +13,7 @@ namespace exercicio3_produto
             double PreçoUnitário = double.Parse(Console.ReadLine());
 
             Console.WriteLine("\nQuantas unidades do produto você adquiriu?");
-            double Quantidade = double.Parse(Console.ReadLine());
+            int Quantidade = int.Parse(Console.ReadLine());
 
             double Total = PreçoUnitário * Quantidade;
 
