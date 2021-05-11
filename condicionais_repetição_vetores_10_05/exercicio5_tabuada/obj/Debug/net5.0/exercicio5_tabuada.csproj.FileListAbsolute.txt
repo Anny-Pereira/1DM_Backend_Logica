@@ -1,0 +1,16 @@
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\bin\Debug\net5.0\exercicio5_tabuada.exe
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\bin\Debug\net5.0\exercicio5_tabuada.deps.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\bin\Debug\net5.0\exercicio5_tabuada.runtimeconfig.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\bin\Debug\net5.0\exercicio5_tabuada.runtimeconfig.dev.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\bin\Debug\net5.0\exercicio5_tabuada.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\bin\Debug\net5.0\ref\exercicio5_tabuada.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\bin\Debug\net5.0\exercicio5_tabuada.pdb
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\obj\Debug\net5.0\exercicio5_tabuada.csprojAssemblyReference.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\obj\Debug\net5.0\exercicio5_tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\obj\Debug\net5.0\exercicio5_tabuada.AssemblyInfoInputs.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\obj\Debug\net5.0\exercicio5_tabuada.AssemblyInfo.cs
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\obj\Debug\net5.0\exercicio5_tabuada.csproj.CoreCompileInputs.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\obj\Debug\net5.0\exercicio5_tabuada.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\obj\Debug\net5.0\ref\exercicio5_tabuada.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\obj\Debug\net5.0\exercicio5_tabuada.pdb
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio5_tabuada\obj\Debug\net5.0\exercicio5_tabuada.genruntimeconfig.cache

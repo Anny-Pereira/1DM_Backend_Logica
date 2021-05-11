@@ -1,0 +1,16 @@
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\bin\Debug\net5.0\exercicio2_gasolina.exe
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\bin\Debug\net5.0\exercicio2_gasolina.deps.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\bin\Debug\net5.0\exercicio2_gasolina.runtimeconfig.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\bin\Debug\net5.0\exercicio2_gasolina.runtimeconfig.dev.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\bin\Debug\net5.0\exercicio2_gasolina.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\bin\Debug\net5.0\ref\exercicio2_gasolina.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\bin\Debug\net5.0\exercicio2_gasolina.pdb
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\obj\Debug\net5.0\exercicio2_gasolina.csprojAssemblyReference.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\obj\Debug\net5.0\exercicio2_gasolina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\obj\Debug\net5.0\exercicio2_gasolina.AssemblyInfoInputs.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\obj\Debug\net5.0\exercicio2_gasolina.AssemblyInfo.cs
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\obj\Debug\net5.0\exercicio2_gasolina.csproj.CoreCompileInputs.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\obj\Debug\net5.0\exercicio2_gasolina.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\obj\Debug\net5.0\ref\exercicio2_gasolina.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\obj\Debug\net5.0\exercicio2_gasolina.pdb
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores\exercicio2_gasolina\obj\Debug\net5.0\exercicio2_gasolina.genruntimeconfig.cache

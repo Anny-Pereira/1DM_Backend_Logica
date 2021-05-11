@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\elilton\\Documents\\SENAI\\Backend\\condicionais_repetição_vetores\\exercicio2_gasolina\\exercicio2_gasolina.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\elilton\\Documents\\SENAI\\Backend\\condicionais_repetição_vetores\\exercicio2_gasolina\\exercicio2_gasolina.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\elilton\\Documents\\SENAI\\Backend\\condicionais_repetição_vetores\\exercicio2_gasolina\\exercicio2_gasolina.csproj",
+        "projectName": "exercicio2_gasolina",
+        "projectPath": "C:\\Users\\elilton\\Documents\\SENAI\\Backend\\condicionais_repetição_vetores\\exercicio2_gasolina\\exercicio2_gasolina.csproj",
+        "packagesPath": "C:\\Users\\elilton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elilton\\Documents\\SENAI\\Backend\\condicionais_repetição_vetores\\exercicio2_gasolina\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elilton\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

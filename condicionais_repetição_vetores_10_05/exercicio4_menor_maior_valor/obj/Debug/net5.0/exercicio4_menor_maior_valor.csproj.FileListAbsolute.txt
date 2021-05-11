@@ -1,0 +1,16 @@
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\bin\Debug\net5.0\exercicio4_menor_maior_valor.exe
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\bin\Debug\net5.0\exercicio4_menor_maior_valor.deps.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\bin\Debug\net5.0\exercicio4_menor_maior_valor.runtimeconfig.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\bin\Debug\net5.0\exercicio4_menor_maior_valor.runtimeconfig.dev.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\bin\Debug\net5.0\exercicio4_menor_maior_valor.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\bin\Debug\net5.0\ref\exercicio4_menor_maior_valor.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\bin\Debug\net5.0\exercicio4_menor_maior_valor.pdb
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\obj\Debug\net5.0\exercicio4_menor_maior_valor.csprojAssemblyReference.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\obj\Debug\net5.0\exercicio4_menor_maior_valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\obj\Debug\net5.0\exercicio4_menor_maior_valor.AssemblyInfoInputs.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\obj\Debug\net5.0\exercicio4_menor_maior_valor.AssemblyInfo.cs
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\obj\Debug\net5.0\exercicio4_menor_maior_valor.csproj.CoreCompileInputs.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\obj\Debug\net5.0\exercicio4_menor_maior_valor.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\obj\Debug\net5.0\ref\exercicio4_menor_maior_valor.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\obj\Debug\net5.0\exercicio4_menor_maior_valor.pdb
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio4_menor_maior_valor\obj\Debug\net5.0\exercicio4_menor_maior_valor.genruntimeconfig.cache

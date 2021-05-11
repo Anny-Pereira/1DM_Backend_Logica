@@ -1,0 +1,16 @@
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\bin\Debug\net5.0\exercicio6_nomes.exe
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\bin\Debug\net5.0\exercicio6_nomes.deps.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\bin\Debug\net5.0\exercicio6_nomes.runtimeconfig.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\bin\Debug\net5.0\exercicio6_nomes.runtimeconfig.dev.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\bin\Debug\net5.0\exercicio6_nomes.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\bin\Debug\net5.0\ref\exercicio6_nomes.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\bin\Debug\net5.0\exercicio6_nomes.pdb
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\obj\Debug\net5.0\exercicio6_nomes.csprojAssemblyReference.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\obj\Debug\net5.0\exercicio6_nomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\obj\Debug\net5.0\exercicio6_nomes.AssemblyInfoInputs.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\obj\Debug\net5.0\exercicio6_nomes.AssemblyInfo.cs
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\obj\Debug\net5.0\exercicio6_nomes.csproj.CoreCompileInputs.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\obj\Debug\net5.0\exercicio6_nomes.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\obj\Debug\net5.0\ref\exercicio6_nomes.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\obj\Debug\net5.0\exercicio6_nomes.pdb
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio6_nomes\obj\Debug\net5.0\exercicio6_nomes.genruntimeconfig.cache

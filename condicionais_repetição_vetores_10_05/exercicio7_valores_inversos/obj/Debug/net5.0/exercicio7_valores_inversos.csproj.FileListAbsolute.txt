@@ -1,0 +1,16 @@
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\bin\Debug\net5.0\exercicio7_valores_inversos.exe
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\bin\Debug\net5.0\exercicio7_valores_inversos.deps.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\bin\Debug\net5.0\exercicio7_valores_inversos.runtimeconfig.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\bin\Debug\net5.0\exercicio7_valores_inversos.runtimeconfig.dev.json
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\bin\Debug\net5.0\exercicio7_valores_inversos.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\bin\Debug\net5.0\ref\exercicio7_valores_inversos.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\bin\Debug\net5.0\exercicio7_valores_inversos.pdb
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\obj\Debug\net5.0\exercicio7_valores_inversos.csprojAssemblyReference.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\obj\Debug\net5.0\exercicio7_valores_inversos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\obj\Debug\net5.0\exercicio7_valores_inversos.AssemblyInfoInputs.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\obj\Debug\net5.0\exercicio7_valores_inversos.AssemblyInfo.cs
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\obj\Debug\net5.0\exercicio7_valores_inversos.csproj.CoreCompileInputs.cache
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\obj\Debug\net5.0\exercicio7_valores_inversos.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\obj\Debug\net5.0\ref\exercicio7_valores_inversos.dll
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\obj\Debug\net5.0\exercicio7_valores_inversos.pdb
+C:\Users\elilton\Documents\SENAI\Backend\condicionais_repetição_vetores_10_05\exercicio7_valores_inversos\obj\Debug\net5.0\exercicio7_valores_inversos.genruntimeconfig.cache
