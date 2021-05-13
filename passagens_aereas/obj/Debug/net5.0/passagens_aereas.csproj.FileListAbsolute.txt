@@ -1,0 +1,16 @@
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\bin\Debug\net5.0\passagens_aereas.exe
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\bin\Debug\net5.0\passagens_aereas.deps.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\bin\Debug\net5.0\passagens_aereas.runtimeconfig.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\bin\Debug\net5.0\passagens_aereas.runtimeconfig.dev.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\bin\Debug\net5.0\passagens_aereas.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\bin\Debug\net5.0\ref\passagens_aereas.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\bin\Debug\net5.0\passagens_aereas.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\obj\Debug\net5.0\passagens_aereas.csprojAssemblyReference.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\obj\Debug\net5.0\passagens_aereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\obj\Debug\net5.0\passagens_aereas.AssemblyInfoInputs.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\obj\Debug\net5.0\passagens_aereas.AssemblyInfo.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\obj\Debug\net5.0\passagens_aereas.csproj.CoreCompileInputs.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\obj\Debug\net5.0\passagens_aereas.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\obj\Debug\net5.0\ref\passagens_aereas.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\obj\Debug\net5.0\passagens_aereas.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\passagens_aereas\obj\Debug\net5.0\passagens_aereas.genruntimeconfig.cache
