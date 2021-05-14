@@ -1,0 +1,16 @@
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\bin\Debug\net5.0\sistemas_produtos.exe
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\bin\Debug\net5.0\sistemas_produtos.deps.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\bin\Debug\net5.0\sistemas_produtos.runtimeconfig.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\bin\Debug\net5.0\sistemas_produtos.runtimeconfig.dev.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\bin\Debug\net5.0\sistemas_produtos.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\bin\Debug\net5.0\ref\sistemas_produtos.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\bin\Debug\net5.0\sistemas_produtos.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\obj\Debug\net5.0\sistemas_produtos.csprojAssemblyReference.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\obj\Debug\net5.0\sistemas_produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\obj\Debug\net5.0\sistemas_produtos.AssemblyInfoInputs.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\obj\Debug\net5.0\sistemas_produtos.AssemblyInfo.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\obj\Debug\net5.0\sistemas_produtos.csproj.CoreCompileInputs.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\obj\Debug\net5.0\sistemas_produtos.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\obj\Debug\net5.0\ref\sistemas_produtos.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\obj\Debug\net5.0\sistemas_produtos.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\sistemas_produtos\obj\Debug\net5.0\sistemas_produtos.genruntimeconfig.cache
