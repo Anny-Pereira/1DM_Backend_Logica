@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Backend\teste_POO\bin\Debug\net5.0\teste_POO.exe
+C:\Users\dev\Desktop\Backend\teste_POO\bin\Debug\net5.0\teste_POO.deps.json
+C:\Users\dev\Desktop\Backend\teste_POO\bin\Debug\net5.0\teste_POO.runtimeconfig.json
+C:\Users\dev\Desktop\Backend\teste_POO\bin\Debug\net5.0\teste_POO.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Backend\teste_POO\bin\Debug\net5.0\teste_POO.dll
+C:\Users\dev\Desktop\Backend\teste_POO\bin\Debug\net5.0\ref\teste_POO.dll
+C:\Users\dev\Desktop\Backend\teste_POO\bin\Debug\net5.0\teste_POO.pdb
+C:\Users\dev\Desktop\Backend\teste_POO\obj\Debug\net5.0\teste_POO.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Backend\teste_POO\obj\Debug\net5.0\teste_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Backend\teste_POO\obj\Debug\net5.0\teste_POO.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Backend\teste_POO\obj\Debug\net5.0\teste_POO.AssemblyInfo.cs
+C:\Users\dev\Desktop\Backend\teste_POO\obj\Debug\net5.0\teste_POO.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Backend\teste_POO\obj\Debug\net5.0\teste_POO.dll
+C:\Users\dev\Desktop\Backend\teste_POO\obj\Debug\net5.0\ref\teste_POO.dll
+C:\Users\dev\Desktop\Backend\teste_POO\obj\Debug\net5.0\teste_POO.pdb
+C:\Users\dev\Desktop\Backend\teste_POO\obj\Debug\net5.0\teste_POO.genruntimeconfig.cache
