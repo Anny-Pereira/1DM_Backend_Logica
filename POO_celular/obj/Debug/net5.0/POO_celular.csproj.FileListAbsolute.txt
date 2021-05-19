@@ -1,0 +1,16 @@
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\bin\Debug\net5.0\POO_celular.exe
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\bin\Debug\net5.0\POO_celular.deps.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\bin\Debug\net5.0\POO_celular.runtimeconfig.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\bin\Debug\net5.0\POO_celular.runtimeconfig.dev.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\bin\Debug\net5.0\POO_celular.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\bin\Debug\net5.0\ref\POO_celular.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\bin\Debug\net5.0\POO_celular.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\obj\Debug\net5.0\POO_celular.csprojAssemblyReference.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\obj\Debug\net5.0\POO_celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\obj\Debug\net5.0\POO_celular.AssemblyInfoInputs.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\obj\Debug\net5.0\POO_celular.AssemblyInfo.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\obj\Debug\net5.0\POO_celular.csproj.CoreCompileInputs.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\obj\Debug\net5.0\POO_celular.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\obj\Debug\net5.0\ref\POO_celular.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\obj\Debug\net5.0\POO_celular.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\POO_celular\obj\Debug\net5.0\POO_celular.genruntimeconfig.cache
