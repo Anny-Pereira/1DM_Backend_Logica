@@ -1,0 +1,16 @@
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\bin\Debug\net5.0\exercicio3_cafeteria.exe
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\bin\Debug\net5.0\exercicio3_cafeteria.deps.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\bin\Debug\net5.0\exercicio3_cafeteria.runtimeconfig.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\bin\Debug\net5.0\exercicio3_cafeteria.runtimeconfig.dev.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\bin\Debug\net5.0\exercicio3_cafeteria.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\bin\Debug\net5.0\ref\exercicio3_cafeteria.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\bin\Debug\net5.0\exercicio3_cafeteria.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\obj\Debug\net5.0\exercicio3_cafeteria.csprojAssemblyReference.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\obj\Debug\net5.0\exercicio3_cafeteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\obj\Debug\net5.0\exercicio3_cafeteria.AssemblyInfoInputs.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\obj\Debug\net5.0\exercicio3_cafeteria.AssemblyInfo.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\obj\Debug\net5.0\exercicio3_cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\obj\Debug\net5.0\exercicio3_cafeteria.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\obj\Debug\net5.0\ref\exercicio3_cafeteria.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\obj\Debug\net5.0\exercicio3_cafeteria.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\exercícios_POO_2605\exercicio3_cafeteria\obj\Debug\net5.0\exercicio3_cafeteria.genruntimeconfig.cache
