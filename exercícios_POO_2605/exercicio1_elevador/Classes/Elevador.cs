@@ -111,10 +111,11 @@ namespace exercicio1_elevador.Classes
                 Console.WriteLine("Não é póssível que o elevador desça mais!");
             }
 
-            else if (RespAndarDescer >= 0 && RespAndarDescer <= Andares)
+         
+             else if (RespAndarDescer > 0 && RespAndarDescer <= Andares)
             {
-                int Temp = AndarAtual - RespAndarDescer;
-                for (var i = RespAndar; i > Temp; i--)
+                int Temp = RespAndar - RespAndarDescer;
+                for (var i = 0; i < Temp; i++)
                 {
                     AndarAtual = AndarAtual - 1;
                     Console.WriteLine($"O elevador desceu, agora está no {AndarAtual}º andar .");
