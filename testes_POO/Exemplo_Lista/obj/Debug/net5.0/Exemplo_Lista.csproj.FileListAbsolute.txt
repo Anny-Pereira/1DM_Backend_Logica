@@ -1,0 +1,16 @@
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\bin\Debug\net5.0\Exemplo_Lista.exe
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\bin\Debug\net5.0\Exemplo_Lista.deps.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\bin\Debug\net5.0\Exemplo_Lista.runtimeconfig.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\bin\Debug\net5.0\Exemplo_Lista.runtimeconfig.dev.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\bin\Debug\net5.0\Exemplo_Lista.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\bin\Debug\net5.0\ref\Exemplo_Lista.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\bin\Debug\net5.0\Exemplo_Lista.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\obj\Debug\net5.0\Exemplo_Lista.csprojAssemblyReference.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\obj\Debug\net5.0\Exemplo_Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\obj\Debug\net5.0\Exemplo_Lista.AssemblyInfoInputs.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\obj\Debug\net5.0\Exemplo_Lista.AssemblyInfo.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\obj\Debug\net5.0\Exemplo_Lista.csproj.CoreCompileInputs.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\obj\Debug\net5.0\Exemplo_Lista.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\obj\Debug\net5.0\ref\Exemplo_Lista.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\obj\Debug\net5.0\Exemplo_Lista.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\testes_POO\Exemplo_Lista\obj\Debug\net5.0\Exemplo_Lista.genruntimeconfig.cache
