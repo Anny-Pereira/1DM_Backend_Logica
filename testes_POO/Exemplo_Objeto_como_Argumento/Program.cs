@@ -14,7 +14,7 @@ namespace Exemplo_Objeto_como_Argumento
             string RemoverProduto;
             string ProdutoAlterado;
             string ProdutoRemovido;
-        
+
 
             Console.WriteLine("Seja bem-vindo(a) à quitandinha!\n");
 
@@ -31,7 +31,7 @@ namespace Exemplo_Objeto_como_Argumento
                 Console.Write($"Insira o preço do produto {i}: ");
                 Preco = float.Parse(Console.ReadLine());
 
-                Produto P1 = new Produto(1, Nome, Preco);
+                Produto P1 = new Produto(i, Nome, Preco);
 
                 carrinho.AdicionarProduto(P1);
 
@@ -48,15 +48,6 @@ namespace Exemplo_Objeto_como_Argumento
                 Console.WriteLine("Sessão finalizada. Obrigada pela preferência!");
             }
 
-            Console.WriteLine("\nVocê deseja alterar algum produto da lista (s-sim / n-não)?");
-            AlterarProduto = Console.ReadLine();
-            if (AlterarProduto == "s")
-            {
-                Console.WriteLine("Qual produto deseja alterar?");
-                ProdutoAlterado = Console.ReadLine().ToLower();
-            
-                carrinho.AlterarProduto(i, ProdutoAlterado);
-            }
 
             Console.WriteLine("\nVocê deseja remover algum produto da lista (s-sim / n-não)?");
             RemoverProduto = Console.ReadLine();
@@ -64,9 +55,36 @@ namespace Exemplo_Objeto_como_Argumento
             {
                 Console.WriteLine("Qual produto deseja remover?");
                 ProdutoRemovido = Console.ReadLine().ToLower();
-            
-                carrinho.RemoverProduto(ProdutoRemovido);
+
+                Produto ProdutoEncontrado = carrinho.carrinho.Find(x => x.Nome == ProdutoRemovido);
+
+                carrinho.RemoverProduto(ProdutoEncontrado);
             }
+
+
+            Console.WriteLine("\nVocê deseja alterar algum produto da lista (s-sim / n-não)?");
+            AlterarProduto = Console.ReadLine();
+            if (AlterarProduto == "s")
+            {
+                Console.WriteLine("Qual produto deseja alterar?");
+                ProdutoAlterado = Console.ReadLine().ToLower();
+
+                Produto ProdutoEncontrado = carrinho.carrinho.Find(x => x.Nome == ProdutoAlterado);
+
+                Produto P2 = new Produto();
+
+                Console.Write($"\nInsira o nome do novo produto: ");
+                P2.Nome = Console.ReadLine();
+
+                Console.Write($"Insira o preço do novo produto: ");
+                P2.Preco = float.Parse(Console.ReadLine());
+
+                P2.Codigo = ProdutoEncontrado.Codigo;
+
+                carrinho.AlterarProduto(ProdutoEncontrado.Codigo, P2);
+            }
+
+
         }
     }
 }

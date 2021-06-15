@@ -7,7 +7,7 @@ namespace Exemplo_Objeto_como_Argumento.Classes
     {
         public float ValorTotal { get; set; }
 
-        List<Produto> carrinho = new List<Produto>();
+        public List<Produto> carrinho = new List<Produto>();
 
         public void AdicionarProduto(Produto produto)
         {
@@ -17,6 +17,7 @@ namespace Exemplo_Objeto_como_Argumento.Classes
         public void RemoverProduto(Produto produto)
         {
             carrinho.Remove(produto);
+            Console.WriteLine("Produto removido la lista!");
         }
 
         public void AlterarProduto(int _codigo, Produto NovoProduto)
