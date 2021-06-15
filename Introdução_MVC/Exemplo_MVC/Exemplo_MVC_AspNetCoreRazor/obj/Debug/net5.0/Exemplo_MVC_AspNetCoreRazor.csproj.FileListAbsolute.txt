@@ -1,0 +1,80 @@
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\bin\Debug\net5.0\appsettings.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.exe
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.deps.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.runtimeconfig.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.runtimeconfig.dev.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\bin\Debug\net5.0\ref\Exemplo_MVC_AspNetCoreRazor.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.Views.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.Views.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.csprojAssemblyReference.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.AssemblyInfoInputs.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.AssemblyInfo.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.csproj.CoreCompileInputs.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.RazorAssemblyInfo.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.RazorAssemblyInfo.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\staticwebassets\Exemplo_MVC_AspNetCoreRazor.StaticWebAssets.Manifest.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\staticwebassets\Exemplo_MVC_AspNetCoreRazor.StaticWebAssets.xml
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\scopedcss\bundle\Exemplo_MVC_AspNetCoreRazor.styles.css
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.TagHelpers.input.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.TagHelpers.output.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.RazorCoreGenerate.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.RazorTargetAssemblyInfo.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.RazorTargetAssemblyInfo.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.Views.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\ref\Exemplo_MVC_AspNetCoreRazor.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.genruntimeconfig.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\MVC\Exemplo_MVC_AspNetCoreRazor\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.csproj.CopyComplete
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\bin\Debug\net5.0\appsettings.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.exe
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.deps.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.runtimeconfig.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.runtimeconfig.dev.json
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\bin\Debug\net5.0\ref\Exemplo_MVC_AspNetCoreRazor.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.Views.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\bin\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.Views.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.csprojAssemblyReference.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.AssemblyInfoInputs.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.AssemblyInfo.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.csproj.CoreCompileInputs.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.RazorAssemblyInfo.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.RazorAssemblyInfo.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\staticwebassets\Exemplo_MVC_AspNetCoreRazor.StaticWebAssets.Manifest.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\staticwebassets\Exemplo_MVC_AspNetCoreRazor.StaticWebAssets.xml
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\scopedcss\bundle\Exemplo_MVC_AspNetCoreRazor.styles.css
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.TagHelpers.input.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.TagHelpers.output.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.RazorCoreGenerate.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.RazorTargetAssemblyInfo.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.RazorTargetAssemblyInfo.cs
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.Views.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\ref\Exemplo_MVC_AspNetCoreRazor.dll
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.pdb
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.genruntimeconfig.cache
+C:\Users\elilt\OneDrive\Documentos\SENAI\Backend\MVC\Exemplo_MVC_AspNetCoreRazor - Cópia\obj\Debug\net5.0\Exemplo_MVC_AspNetCoreRazor.csproj.CopyComplete
